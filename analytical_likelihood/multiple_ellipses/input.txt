@@ -1,0 +1,4 @@
+particle_momentum 7.0
+particle_mass 0.493677
+cone_direction_angle 0.4
+z_screen 0.20
