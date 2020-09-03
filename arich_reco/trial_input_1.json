@@ -1,0 +1,18 @@
+# general mode to use
+general_mode analytical_likelihood
+#   general_mode direct_angle_measurement
+#   general_mode hough_transform
+#   general_mode toymc_likelihood
+#   general_mode geant4_likelihood
+
+# data input mode to use
+data_input_mode single_event_text
+#   data_input_mode root
+
+# the name of the file containing the data
+data_input_file data_1.json
+# data_input_file data_1.root
+
+# geometry specification file to use
+geometry_file geometry_file_1.json
+

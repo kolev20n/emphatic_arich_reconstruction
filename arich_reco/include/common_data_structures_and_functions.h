@@ -1,0 +1,5 @@
+#ifndef common_data_structures_and_functions_h
+#define common_data_structures_and_functions_h
+
+
+#endif
